@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
+  - [Algorithm for file updates in Python](https://github.com/ryangbaxter/cybersecurity/files/12266223/Algorithm.for.file.updates.in.Python.pdf)
 <h2>🎖️ Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/34ecfdca3cf27dd481f15361351348fd)
@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
