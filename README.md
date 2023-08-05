@@ -2,11 +2,18 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Professional Cybersecurity Statement](https://docs.google.com/document/d/e/2PACX-1vSTpavP-P2g43TGsjZdpwywnXjq2cpcXL8yJ1n2mcj70l-qL7syPrbly18sT8h0cr0DbN-kXRbBASmr/pub)
+  - [Incident report analysis (applying NIST CSF)](https://docs.google.com/document/d/e/2PACX-1vTTlBDEakdYBXEYCEXbQDMCPrHxXbID13o6ciMh5m2DPKPFkKE_8l7nKsQiostfMXnuYLmqh8SuFbfM/pub)
+  - [Incident handler's journal (VirusTotal, Splunk, Chronicle)](https://docs.google.com/document/d/e/2PACX-1vS0V-J4FGIcbddOkU9QMSJjs47sqs1Yzfz5wW8-Loi1MlRYpfOpGoBmQ396DE3gnQk3uJTGOfsH_4q_/pub)
   - [Algorithm for file updates in Python](https://docs.google.com/document/d/e/2PACX-1vRUdqjeaubhyGnMX4jUdRKu2_zjW8JX5YWQmBBv06L4KVKqfwvBSJrkIwNilKaluMzIXRcygD_VndWQ/pub)
+  - [Vulnerability Assessment Report](https://docs.google.com/document/d/e/2PACX-1vR9LfjWIrxb2iqS9KHLZvycPq0-vLUDl2ga_CXXFILcmsTtVpfv8Mr4nHdKJqVFbFxXlz0tB6Aemaq6/pub)
+  - [Apply filters to SQL queries](https://docs.google.com/document/d/e/2PACX-1vSkGwG2Kaqx_XSyXxohDO0CGaTeCL4_H4jo1DJs2HtEnqH9rn39VprGagAnURDUxL1Zi10kxBBX3ue0/pub)
+  - [File Permissions in Linux](https://docs.google.com/document/d/e/2PACX-1vQmVGesyCeeNTv6set34_fJbjDy_i9XNxBEl_GwSMjJzM4cG7-uLF70i2KFTtXd_zhIZ-9xv1S_v6EZ/pub)
+  - [Security Audit](https://docs.google.com/document/d/e/2PACX-1vQ4kay5HSBtFUmr5LllEkYXvUNm4lqIv82a_vWHAZzwEe-qhMxxPVOKjCychIYPr1M_MipRNWgO8TAt/pub)
 <h2>🎖️ Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/34ecfdca3cf27dd481f15361351348fd)
+- 
 
 <h2> 🤳 Connect with me:</h2>
 
