@@ -3,8 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Algorithm for file updates in Python](https://github.com/ryangbaxter/cybersecurity/files/12266223/Algorithm.for.file.updates.in.Python.pdf)
+  - [Algorithm for file updates in Python](https://docs.google.com/document/d/e/2PACX-1vRUdqjeaubhyGnMX4jUdRKu2_zjW8JX5YWQmBBv06L4KVKqfwvBSJrkIwNilKaluMzIXRcygD_VndWQ/pub)
 <h2>🎖️ Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/34ecfdca3cf27dd481f15361351348fd)
