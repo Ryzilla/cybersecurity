@@ -11,7 +11,7 @@
   - [File Permissions in Linux](https://docs.google.com/document/d/e/2PACX-1vQmVGesyCeeNTv6set34_fJbjDy_i9XNxBEl_GwSMjJzM4cG7-uLF70i2KFTtXd_zhIZ-9xv1S_v6EZ/pub)
   - [Security Audit](https://docs.google.com/document/d/e/2PACX-1vQ4kay5HSBtFUmr5LllEkYXvUNm4lqIv82a_vWHAZzwEe-qhMxxPVOKjCychIYPr1M_MipRNWgO8TAt/pub)
   - [Microsoft Windows Defender and Firewall for Beginners](https://www.coursera.org/account/accomplishments/certificate/JXBSDN8QRREU)
-  - [Analyze Network Traffic with TCPDump]
+  - [Analyze Network Traffic with TCPDump](https://www.coursera.org/account/accomplishments/certificate/48LQJZC42RJ5)
   - [Wireshark for Beginners: Capture Packets]
   - [Intro to Network Traffic Analysis (HackThebox)]
   - [Intro to Active Directory (HackThebox)]
