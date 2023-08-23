@@ -13,7 +13,7 @@
   - [Microsoft Windows Defender and Firewall for Beginners](https://www.coursera.org/account/accomplishments/certificate/JXBSDN8QRREU)
   - [Analyze Network Traffic with TCPDump](https://www.coursera.org/account/accomplishments/certificate/48LQJZC42RJ5)
   - [Wireshark for Beginners: Capture Packets]
-  - [Intro to Network Traffic Analysis (HackThebox)]
+  - [Intro to Network Traffic Analysis (HackThebox)](https://academy.hackthebox.com/achievement/930773/81)
   - [Intro to Active Directory (HackThebox)]
   - [Windows Event Logs & Finding Evil (HackTheBox)]
 <h2>🎖️ Certifications</h2>
