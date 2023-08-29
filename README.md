@@ -14,7 +14,7 @@
   - [Analyze Network Traffic with TCPDump](https://www.coursera.org/account/accomplishments/certificate/48LQJZC42RJ5)
   - [Wireshark for Beginners: Capture Packets]
   - [Intro to Network Traffic Analysis (HackThebox)](https://academy.hackthebox.com/achievement/930773/81)
-  - [Intro to Active Directory (HackThebox)]
+  - [Intro to Active Directory (HackThebox)](https://academy.hackthebox.com/achievement/930773/74)
   - [Windows Event Logs & Finding Evil (HackTheBox)]
 <h2>🎖️ Certifications</h2>
 
