@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Professional Cybersecurity Statement](https://docs.google.com/document/d/e/2PACX-1vSTpavP-P2g43TGsjZdpwywnXjq2cpcXL8yJ1n2mcj70l-qL7syPrbly18sT8h0cr0DbN-kXRbBASmr/pub)
   - [Incident report analysis (applying NIST CSF)](https://docs.google.com/document/d/e/2PACX-1vTTlBDEakdYBXEYCEXbQDMCPrHxXbID13o6ciMh5m2DPKPFkKE_8l7nKsQiostfMXnuYLmqh8SuFbfM/pub)
   - [Incident handler's journal (VirusTotal, Splunk, Chronicle)](https://docs.google.com/document/d/e/2PACX-1vS0V-J4FGIcbddOkU9QMSJjs47sqs1Yzfz5wW8-Loi1MlRYpfOpGoBmQ396DE3gnQk3uJTGOfsH_4q_/pub)
   - [Algorithm for file updates in Python](https://docs.google.com/document/d/e/2PACX-1vRUdqjeaubhyGnMX4jUdRKu2_zjW8JX5YWQmBBv06L4KVKqfwvBSJrkIwNilKaluMzIXRcygD_VndWQ/pub)
