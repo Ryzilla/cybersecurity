@@ -11,15 +11,16 @@
   - [Security Audit](https://docs.google.com/document/d/e/2PACX-1vQ4kay5HSBtFUmr5LllEkYXvUNm4lqIv82a_vWHAZzwEe-qhMxxPVOKjCychIYPr1M_MipRNWgO8TAt/pub)
   - [Microsoft Windows Defender and Firewall for Beginners](https://www.coursera.org/account/accomplishments/certificate/JXBSDN8QRREU)
   - [Analyze Network Traffic with TCPDump](https://www.coursera.org/account/accomplishments/certificate/48LQJZC42RJ5)
-  - [Wireshark for Beginners: Capture Packets]
   - [Intro to Network Traffic Analysis (HackThebox)](https://academy.hackthebox.com/achievement/930773/81)
   - [Intro to Active Directory (HackThebox)](https://academy.hackthebox.com/achievement/930773/74)
-  - [Windows Event Logs & Finding Evil (HackTheBox)]
+  - [Windows Event Logs & Finding Evil (HackTheBox)] - In Progress
+  - [Wireshark for Beginners: Capture Packets] - In Progress
+  - [Home Lab: Virtualbox VMs, Ubuntu, Kali, Windows, Splunk, Active Directory, Snort, Wireshark, Nmap] - In Progress
 <h2>🎖️ Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/34ecfdca3cf27dd481f15361351348fd)
-- [TryHackMe SOC Level 1 Certificate]
-- [TryHackMe Cyber Defense Certificate]
+- [TryHackMe SOC Level 1 Certificate] - In Progress
+- [TryHackMe Cyber Defense Certificate] - In Progress
 
 <h2> 🤳 Connect with me:</h2>
 
