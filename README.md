@@ -14,7 +14,6 @@
   - [Intro to Network Traffic Analysis (HackThebox)](https://academy.hackthebox.com/achievement/930773/81)
   - [Intro to Active Directory (HackThebox)](https://academy.hackthebox.com/achievement/930773/74)
   - [Windows Event Logs & Finding Evil (HackTheBox)] - In Progress
-  - [Wireshark for Beginners: Capture Packets] - In Progress
   - [Home Lab: Virtualbox VMs, Ubuntu, Kali, Windows, Splunk, Active Directory, Snort, Wireshark, Nmap] - In Progress
 <h2>🎖️ Certifications</h2>
 
