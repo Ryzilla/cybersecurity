@@ -15,7 +15,7 @@
   - [Intro to Active Directory (HackThebox)](https://academy.hackthebox.com/achievement/930773/74)
   - [Windows Event Logs & Finding Evil (HackTheBox)] - In Progress
   - [Home Lab: Virtualbox VMs, Ubuntu, Kali, Windows, Splunk, Active Directory, Snort, Wireshark, Nmap, Nessus] - In Progress
-  - [Simulated Business Lab: Cyber Security Service offered to individuals & Small Businesses] - In Progress
+  - [Simulated Business Lab: Customer & Employee Education, Security App Installation, Legal Documentation, System Configuration] - In Progress
 <h2>🎖️ Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/34ecfdca3cf27dd481f15361351348fd)
