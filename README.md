@@ -14,7 +14,8 @@
   - [Intro to Network Traffic Analysis (HackThebox)](https://academy.hackthebox.com/achievement/930773/81)
   - [Intro to Active Directory (HackThebox)](https://academy.hackthebox.com/achievement/930773/74)
   - [Windows Event Logs & Finding Evil (HackTheBox)] - In Progress
-  - [Home Lab: Virtualbox VMs, Ubuntu, Kali, Windows, Splunk, Active Directory, Snort, Wireshark, Nmap] - In Progress
+  - [Home Lab: Virtualbox VMs, Ubuntu, Kali, Windows, Splunk, Active Directory, Snort, Wireshark, Nmap, Nessus] - In Progress
+  - [Simulated Business Lab: Cyber Security Service offered to individuals & Small Businesses] - In Progress
 <h2>🎖️ Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/34ecfdca3cf27dd481f15361351348fd)
@@ -26,19 +27,3 @@
 Linkedin: [RyanGBaxter](https://www.linkedin.com/in/ryangbaxter)
 
 Email: ryan.gbaxter@gmail.com
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
